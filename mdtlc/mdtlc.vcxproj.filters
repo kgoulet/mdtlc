@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="atlc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bmp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="browser_log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="coplanar_diff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="coplanar_se.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="coplanar-diff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="definitions_glo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="diff_pair_broad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Erdata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exit_codes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fltk_if.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gsl_definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gsl_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="input_bmp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mdtlc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="output_bmp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="single_end_trace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="trimp_fltk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mdtlc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="align_bitmap_image.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="atlc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="byteswap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="calculate_colour_data.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="calculate_integer_values.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="calculate_Zodd_and_Zeven.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="check_error.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="check_for_boundaries.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="check_for_shorts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="do_fd_calculation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="elliptic_integral.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exit_with_msg_and_exit_code.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="find_electric_fields.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="find_energy_per_metre.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="find_maximum_values.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="finite_difference_mpi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="finite_difference_multi_threaded.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="finite_difference_single_threaded.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="get_file_pointer_with_right_filename.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="get_options.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="give_examples_of_using_design_coupler.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gsl_sf_ellint_Kcomp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="memory.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="print_copyright.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="read_bitmap_file_headers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="set_data_to_sensible_starting_values.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="set_oddity_from_Greens_paper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="setup_arrays.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="single_end_trace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="swap_conductor_voltages.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="update_voltage_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="usage_atlc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="usage_readbin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="write_bitmap_out.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="write_fields_for_directional_couplers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="write_fields_for_two_conductor_lines.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="browser_log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="filename_ext.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fltk_if.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="input_bmp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="output_bmp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trimp_fltk.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="coplanar_diff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="coplanar_se.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="print_data_for_directional_couplers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="print_data_for_two_conductor_lines.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="diff_pair_broad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

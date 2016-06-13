@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg3173"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="C:\Dev-Cpp\development\trimp\src\gui"
+   sodipodi:docname="diff_pair_broad.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\diff_pair_broad.png"
+   inkscape:export-xdpi="164.29996"
+   inkscape:export-ydpi="164.29996">
+  <defs
+     id="defs3175">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path7125"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path7122"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="370.85899"
+     inkscape:cy="388.33146"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     width="1052.3622px"
+     height="744.09448px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata3178">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#d3bc5f;fill-opacity:1"
+       id="rect3181"
+       width="204.79822"
+       height="10.33238"
+       x="275.20178"
+       y="313.79117"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 300,324.09448 L 305,314.09448 L 355,314.09448 L 360,324.09448 L 300,324.09448 z "
+       id="path3183"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 400,324.09448 L 405,314.09448 L 455,314.09448 L 460,324.09448 L 400,324.09448 z "
+       id="path4154"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ac9393;fill-opacity:1;stroke:none"
+       id="rect5125"
+       width="205"
+       height="25.073723"
+       x="275"
+       y="289.02075"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ac9393;fill-opacity:1;stroke:none"
+       id="rect5127"
+       width="205"
+       height="30.333654"
+       x="275"
+       y="324.09448"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       id="rect5147"
+       width="143"
+       height="9.9227095"
+       x="275"
+       y="279.17178"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       id="rect5149"
+       width="205"
+       height="10"
+       x="275"
+       y="354.09448"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none"
+       id="rect5151"
+       width="175.06314"
+       height="4.9177322"
+       x="275"
+       y="364.09448"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none"
+       id="rect5153"
+       width="148"
+       height="4.9999866"
+       x="275"
+       y="274.09448"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none"
+       id="rect5155"
+       width="23.074997"
+       height="4.9262776"
+       x="457"
+       y="274.16821"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none"
+       id="rect5157"
+       width="30"
+       height="4.9188828"
+       x="450"
+       y="364.1756"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 360,324.09448 L 360,384.09448"
+       id="path5159"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 400,324.09448 L 400,384.09448"
+       id="path6130"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 460,324.09448 L 460,379.09448"
+       id="path6132"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 300,324.09448 L 300,379.09448"
+       id="path6134"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 301.3873,374.09448 L 358.62625,374.09448"
+       id="path6136"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 402.23027,374.09448 L 458.64176,374.09448 L 458.64176,374.09448"
+       id="path7307"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 361.36891,379.09448 L 398.651,379.09448"
+       id="path8278"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 300,321.09448 L 300,304.09448"
+       id="path2211"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 305,313.09448 C 305,312.09448 305,304.09448 305,304.09448"
+       id="path2213"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.93952495;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Sstart);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 297.86289,306.09448 L 289.84854,306.09448"
+       id="path2215"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.93952495;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Sstart);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 306.94772,306.09448 L 314.96207,306.09448"
+       id="path2217"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect9981"
+       width="30.074997"
+       height="9.9894133"
+       x="450"
+       y="279.09448"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect11921"
+       width="5"
+       height="10.065176"
+       x="418"
+       y="279.09448"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12892"
+       width="7.0535045"
+       height="4.9767871"
+       x="423"
+       y="284.09448"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.90000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 418,277.62485 L 418,249.01412"
+       id="path12894"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.90000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 450,277.62485 L 450,249.01412"
+       id="path12896"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 275,272.67398 L 275,264.25817"
+       id="path13867"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79546654;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 276.12603,266.09448 L 416.87023,266.09448"
+       id="path14838"
+       inkscape:export-filename="C:\Dev-Cpp\development\trimp\src\gui\path16782.png"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70000011;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 419.46257,251.09448 L 449.54114,251.09448"
+       id="path16782"
+       inkscape:export-xdpi="164.29996"
+       inkscape:export-ydpi="164.29996" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="244.23242"
+       y="303.95386"
+       id="text2187"><tspan
+         sodipodi:role="line"
+         id="tspan2189"
+         x="244.23242"
+         y="303.95386"
+         style="font-size:8px">LAM1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="243.39285"
+       y="343.73734"
+       id="text2191"><tspan
+         sodipodi:role="line"
+         id="tspan2193"
+         x="243.39285"
+         y="343.73734"
+         style="font-size:8px">LAM2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="307.11621"
+       y="322.56567"
+       id="text2195"><tspan
+         sodipodi:role="line"
+         id="tspan2197"
+         x="307.11621"
+         y="322.56567"
+         style="font-size:8px"
+         dy="-0.53571427"
+         dx="6.4285693">TRACE1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="414.96228"
+       y="322.15469"
+       id="text2199"><tspan
+         sodipodi:role="line"
+         id="tspan2201"
+         x="414.96228"
+         y="322.15469"
+         style="font-size:8px">TRACE2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="319.87793"
+       y="384.09448"
+       id="text2203"><tspan
+         sodipodi:role="line"
+         id="tspan2205"
+         x="319.87793"
+         y="384.09448"
+         style="font-size:8px">W1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="354.64063"
+       y="393.99683"
+       id="text2207"><tspan
+         sodipodi:role="line"
+         id="tspan2209"
+         x="354.64063"
+         y="393.99683"
+         style="font-size:8px">SEPARATION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="424.87793"
+       y="384.09448"
+       id="text2219"><tspan
+         sodipodi:role="line"
+         id="tspan2221"
+         x="424.87793"
+         y="384.09448"
+         style="font-size:8px">W2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="295.72217"
+       y="299.37482"
+       id="text9977"><tspan
+         sodipodi:role="line"
+         id="tspan9979"
+         x="295.72217"
+         y="299.37482"
+         style="font-size:8px">ETCHBACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="297.61328"
+       y="263.99683"
+       id="text15809"><tspan
+         sodipodi:role="line"
+         id="tspan15811"
+         x="297.61328"
+         y="263.99683"
+         style="font-size:8px">OPENING X-OFFSET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="385.61328"
+       y="245.99683"
+       id="text17753"><tspan
+         sodipodi:role="line"
+         id="tspan17755"
+         x="385.61328"
+         y="245.99683"
+         style="font-size:8px">OPENING WIDTH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="484.43359"
+       y="286.37964"
+       id="text17757"><tspan
+         sodipodi:role="line"
+         id="tspan17759"
+         x="484.43359"
+         y="286.37964"><tspan
+           style="font-size:9px"
+           id="tspan17765"><tspan
+             style="font-size:8px"
+             id="tspan17767">TOP </tspan></tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="484.26758"
+       y="363.97241"
+       id="text17761"><tspan
+         sodipodi:role="line"
+         id="tspan17763"
+         x="484.26758"
+         y="363.97241"
+         style="font-size:8px">BOTTOM</tspan></text>
+  </g>
+</svg>
